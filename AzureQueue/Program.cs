@@ -15,6 +15,7 @@ namespace AzureQueue
             //UpdateMessageInQueue();
             //PeekMessageFromQueue();
             DequeueMessageInQueue();
+
         }
 
 
